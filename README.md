@@ -1,127 +1,113 @@
-Yamamer AI — GP2 Progress Dashboard
+<div align="center">
+🧠 Yamamer AI
+GP2 Progress Dashboard
 
-A modern, interactive web dashboard built to track the full development lifecycle of the Yamamer AI graduation project.
+A modern, interactive web dashboard designed to track and visualize the full development lifecycle of the Yamamer AI graduation project.
 
-This website visually documents implementation phases, technical stack, task completion status, deployment planning, and cost estimation — all in a structured and easy-to-follow interface 
-
-.
-
+</div>
 📌 Overview
 
-This dashboard was created to provide a clear and organized view of the project's progress during the GP2 implementation phase.
+This repository contains a custom-built progress tracking dashboard created specifically to monitor the implementation phase of the project.
 
-Instead of using generic project management tools, this custom-built interface was designed specifically to:
+Rather than using external task management tools, this interface provides:
 
-Track development phases
+📊 Clear phase-by-phase progress tracking
 
-Monitor task completion percentages
+🧩 Technical stack documentation
 
-Document architecture decisions
+💰 Deployment cost estimation
 
-Present estimated infrastructure costs
+📖 Built-in glossary for technical concepts
 
-Explain technical terminology through a glossary
+🎯 Focus tracking for current development work
 
-✨ Features
-🔹 Interactive Progress Tracking
+Everything is structured in a clean, presentation-ready layout.
 
-Phase-based task organization
+✨ Key Features
+🔹 Interactive Task Tracking
 
-Dynamic completion percentages
+Phase-based organization
+
+Toggleable task completion
+
+Automatic percentage calculation
 
 Visual progress bars
-
-“Currently Working On” focus section
 
 🔹 Tech Stack Overview
 
 Clickable technology badges
 
-Hover tooltips explaining each tool
+Hover tooltips explaining each component
 
-Clear justification of architectural choices
+Architecture transparency
 
-🔹 Cost Estimation Section
+🔹 Cost Estimation Panel
 
 Monthly infrastructure estimate
 
-Breakdown by service (AI API, hosting, database, etc.)
+Service-by-service breakdown
 
 Free-tier visibility
 
-🔹 Glossary System
+🔹 Built-in Glossary
 
-Add / edit technical terms
+Add and edit technical terms
 
-Category tagging
+Categorize concepts
 
-Simple explanation storage
+Store explanations for reference
 
-🔹 Persistent State
+🔹 Persistent Progress
 
-Progress saved automatically using LocalStorage
+Uses LocalStorage
+
+Automatically saves state
 
 No backend required
 
-🔹 Modern UI
+🔹 Modern UI Design
 
 Responsive layout
 
+Dark theme aesthetic
+
 Smooth animations
 
-Dark theme design
+Clean card-based structure
 
-Clean component-based structure
+🏗 Development Phases Tracked
+Phase	Description
+1️⃣	Setup & Environment Configuration
+2️⃣	Backend Initialization
+3️⃣	Database Modeling
+4️⃣	Containerization & Database Integration
+5️⃣	AI Pipeline Implementation
+6️⃣	API Development
+7️⃣	Frontend Development
+8️⃣	Production Deployment
 
-🏗 Development Phases
+Each phase includes detailed tasks that can be marked complete to update progress dynamically.
 
-The dashboard tracks the following structured phases:
-
-Setup & Environment Configuration
-
-Backend Framework Initialization
-
-Database Modeling
-
-Containerization & Database Integration
-
-AI Pipeline Implementation
-
-API Layer Development
-
-Frontend Development
-
-Production Deployment
-
-Each phase includes detailed tasks that can be toggled as completed.
-
-🛠 Technologies Used (Dashboard)
-
-This progress tracker is built with:
+🛠 Technologies Used (Dashboard Itself)
 
 HTML5
 
-CSS3 (custom styling, no external UI frameworks)
+CSS3 (Custom styling)
 
 Vanilla JavaScript
 
-LocalStorage for state persistence
+Browser LocalStorage
 
-No backend or database is required to run this dashboard.
+No external frameworks. No backend. Fully self-contained.
 
-🚀 How to Use
+🚀 Getting Started
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
 
-Clone the repository
+# Open the HTML file in your browser
 
-Open the HTML file in your browser
-
-Click tasks to mark them as completed
-
-Hover over tech stack items to read explanations
-
-Add glossary terms if needed
-
-Progress updates automatically and persists locally.
+That’s it — no installation or dependencies required.
 
 📂 Project Structure
 yamamer-progress/
@@ -129,23 +115,25 @@ yamamer-progress/
 ├── index.html
 └── README.md
 
-Everything is contained in a single self-contained HTML file.
+The entire dashboard is contained within a single HTML file.
 
-🎯 Purpose
+🎯 Purpose of This Repository
 
-This repository serves as:
+This project demonstrates:
 
-A structured documentation tool
+Structured development planning
 
-A visual progress report
+Clear technical organization
 
-A technical planning reference
+Transparent implementation roadmap
 
-A presentation-ready dashboard
+Professional documentation practice
 
-It demonstrates organized development planning and systematic project execution.
+It serves both as a progress tracker and a presentation-ready technical overview.
 
+<div align="center">
 📅 Status
 
-Actively maintained during the GP2 implementation phase.
-Progress and tasks are updated as development continues.
+Actively updated during the GP2 implementation phase.
+
+</div>
