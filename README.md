@@ -77,15 +77,17 @@ Smooth animations
 Clean card-based structure
 
 🏗 Development Phases Tracked
-Phase	Description
-1️⃣	Setup & Environment Configuration
-2️⃣	Backend Initialization
-3️⃣	Database Modeling
-4️⃣	Containerization & Database Integration
-5️⃣	AI Pipeline Implementation
-6️⃣	API Development
-7️⃣	Frontend Development
-8️⃣	Production Deployment
+| Phase | Description                             |
+| ----- | --------------------------------------- |
+| 1️⃣   | Setup & Environment Configuration       |
+| 2️⃣   | Backend Initialization                  |
+| 3️⃣   | Database Modeling                       |
+| 4️⃣   | Containerization & Database Integration |
+| 5️⃣   | AI Pipeline Implementation              |
+| 6️⃣   | API Development                         |
+| 7️⃣   | Frontend Development                    |
+| 8️⃣   | Production Deployment                   |
+
 
 Each phase includes detailed tasks that can be marked complete to update progress dynamically.
 
@@ -108,12 +110,6 @@ git clone https://github.com/your-username/your-repo-name.git
 # Open the HTML file in your browser
 
 That’s it — no installation or dependencies required.
-
-📂 Project Structure
-yamamer-progress/
-│
-├── index.html
-└── README.md
 
 The entire dashboard is contained within a single HTML file.
 
